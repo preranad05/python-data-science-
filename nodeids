@@ -1,0 +1,16 @@
+[
+  "banking_app/tests/test_bank.py::test_create_account",
+  "banking_app/tests/test_bank.py::test_deposit",
+  "banking_app/tests/test_bank.py::test_get_balance",
+  "banking_app/tests/test_bank.py::test_withdraw",
+  "database_app/test_customers_db_1.py::test_get_all_customers",
+  "database_app/test_customers_db_1.py::test_insert_customer",
+  "database_app/test_customers_db_2.py::test_get_all_customers",
+  "database_app/test_customers_db_2.py::test_insert_customer",
+  "database_app/test_mydb.py::test_johns_id",
+  "database_app/test_mydb.py::test_toms_id",
+  "test_1.py::test_add",
+  "test_1.py::test_add_big_numbers",
+  "test_2.py::test_divide",
+  "test_2.py::test_multiply"
+]
